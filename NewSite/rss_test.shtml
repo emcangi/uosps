@@ -1,0 +1,86 @@
+
+<HEAD>
+
+<TITLE>Magic RSS - Content for YOUR website</TITLE>
+<link rel="stylesheet" type="text/css" href="style1.css">
+<style> .findorseek {font-size: xx-small;}</style>
+
+</HEAD>
+
+<BODY><FONT FACE=ARIAL>
+
+<SCRIPT>self.focus()</SCRIPT>
+
+
+<CENTER>
+
+	<TABLE WIDTH=700><TR><TD>
+		
+		<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 border=0>
+
+			<TR>
+
+				<TD>
+
+					<TABLE WIDTH=100% CELLSPACING=0 border=0 CELLPADDING=0>
+	
+						<TR>
+							<TD BGCOLOR=#4863A0 ALIGN=CENTER COLSPAN=2>
+
+								<TABLE WIDTH=100% CELLSPACING=0 CELLPADDING=10 ALIGN=CENTER BORDER=0><TR><TD>
+
+<CENTER><FONT COLOR=#ffffff><P><FONT SIZE=4><B>Magic RSS</B></FONT><BR>Put RSS content on YOUR website!</FONT></A></FONT></FONT></CENTER>
+
+</TR></TD></TABLE>
+
+
+
+</TD></TR>
+
+<TR><TD WIDTH=100% COLSPAN=2><IMG SRC=http://www.magic-rss.com/triangle.gif></TD></TR>
+
+</TABLE>
+
+</TD></TR>
+
+<TR><TD>
+
+	<TABLE WIDTH=100% CELLSPACING=0 CELLPADDING=0 BORDER=0><TR>
+
+	<TD COLSPAN=2 WIDTH=100%>
+	
+<P>
+<H3>Magic RSS Test page</H3>
+
+If you can see five listings from Yahoo! News Top Stories, then congratulations - you have successfully installed Magic RSS on your website.  Use this page as a template for including Magic RSS into your own pages.  OR, go to <A HREF=http://www.magicrss.com/>Magic RSS</A> for details on how to configure your feed.<P>
+
+If you cannot see the listings, then go the <A HREF=http://www.magic-rss.com/>Magic RSS</A> page and look at Setup and Installation for help for assistance.<P>
+
+
+	<!--#include virtual="/magicrss.php?max=5&url=http://rss.news.yahoo.com/rss/topstories" -->
+	
+
+		<P>
+	
+		</td></tr></table>
+		<A NAME=bottom>
+
+	
+	
+	<CENTER>
+	
+	
+
+	</TR></TABLE>
+
+
+
+
+</TD></TR>
+	
+</CENTER>
+
+</TABLE>
+
+</TD></TR></TABLE>
+
